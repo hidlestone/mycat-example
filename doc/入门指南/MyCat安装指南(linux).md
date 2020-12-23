@@ -87,23 +87,3 @@ Conf目录下存放配置文件
 
 > 提示：访问MyCAT的用户账号和授权信息是在conf/server.xml文件中配置，而MyCAT用来连接后端MySQL库的用户名密码信息则在conf/schema.xml中，这是两套完全独立的系统，类似的还有MyCAT的逻辑库(schema)，逻辑表（table）也是类似的。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

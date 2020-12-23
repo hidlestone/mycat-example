@@ -1,2 +1,4 @@
 # mycat-example
-mycat 读写分离/分库分表 示例
+mycat 分库分表/读写分离 示例
+
+
